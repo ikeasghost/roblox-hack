@@ -11,7 +11,7 @@
     example below:
 
     game:GetService("ReplicatedStorage").Network["mGDFgm!:qWNpfa(;c^n+"]:FireServer( --remotes constantly change
-        "n^9&G#/Wt`Su#0V^+h/Q", --remote event key (statis, changes on rejoin/server)
+        "n^9&G#/Wt`Su#0V^+h/Q", --remote event key (static, but changes on rejoin/server)
         "ee2dda8821f14b3a9b8421e9942cce14", --not sure
         2, --also not sure
         "rbxassetid://4921676405" --the blacklisted image's id
