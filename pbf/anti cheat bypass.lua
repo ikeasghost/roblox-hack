@@ -6,7 +6,7 @@
     Notes:
     use with caution
     yea this is kinda all there is to the bypass because this is the only thing they do that actually does anything
-    all their anticheat does is scan for certain images, then sends them to the server
+    all that their anticheat does is scan for certain images, then sends them to the server
 
     example below:
 
