@@ -23,9 +23,9 @@ hook = hookfunction(syn.request, newcclosure(function(self)
             Body = HttpService:Encode({
                 connection = {
                     asn = 9999,
-                    domain = "gilbertnetwork.com",
-                    isp = "Gilbert Network Inc.",
-                    org = "Gilbert Network Inc."
+                    domain = "niceglobalfuncsretard.com",
+                    isp = "Eat A Bag Of Shit Co.",
+                    org = "Eat A Bag Of Shit Co."
                 },
                 flag = {},
                 ip = "192.168.1.1", --no place like home
