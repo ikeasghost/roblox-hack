@@ -1,7 +1,7 @@
 --[[
     File: pbf spoof.lua
     Author: ikea
-    Description: spoof ip, hwid, and other identifiers for PBF's ip logging mechanism (as of April 1st, 2023)
+    Description: spoof ip and other identifiers for PBF's ip logging mechanism (as of April 1st, 2023)
     
     Notes:
     not made for bypassing paid scripts
