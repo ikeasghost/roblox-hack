@@ -15,7 +15,7 @@ local old = clonefunction(syn.request)
 
 local hook
 hook = hookfunction(syn.request, newcclosure(function(self)
-    if self.Url == "https://ipwho.is" then --he's updated this in the past
+    if not checkcaller() then --try changing the url now dumbass LOL
         return {
             StatusMessage = "OK",
             Success = true,
